@@ -1,4 +1,4 @@
-# Belchushka aka Evgeny Kun
+# Belchushka aka Savva(starbucks cashier nightmare) Shulgin
 <img src="https://c.tenor.com/ODSOi541axsAAAAC/joseph-joseph-joestar.gif" alt="drawing" width="100%"/>
 
 - your next words are: "Can you please make a fullstack marketplace with 1C connection for 12$?"
