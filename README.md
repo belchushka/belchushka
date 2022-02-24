@@ -12,3 +12,4 @@
 - 🌱 I’m currently learning react-native
 - 📫 How to reach me: its unreal
 - ⚡ Fun fact: Jojo S2 is the best
+- 💬 One commit per project
