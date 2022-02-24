@@ -1,6 +1,9 @@
 # Belchushka aka Evgeny Kun
 <img src="https://c.tenor.com/ODSOi541axsAAAAC/joseph-joseph-joestar.gif" alt="drawing" width="100%"/>
 
+- your next words are: "Can you please make a fullstack marketplace with 1C connection for 12$?"
+- my answer will be: "yes, it'll take me 2 days"
+
 ## Just chillin, drinking bear and watching jojo
 
 ### pts... a bit php, js, css developer
