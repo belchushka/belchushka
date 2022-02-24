@@ -1,5 +1,5 @@
 # Belchushka aka Evgeny Kun
-<img src="https://c.tenor.com/ODSOi541axsAAAAC/joseph-joseph-joestar.gif" alt="drawing" width="200"/>
+<img src="https://c.tenor.com/ODSOi541axsAAAAC/joseph-joseph-joestar.gif" alt="drawing" width="100%"/>
 
 ## Just chillin, drinking bear and watching jojo
 
